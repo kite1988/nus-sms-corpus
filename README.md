@@ -1,5 +1,5 @@
 # NUS SMS Corpus
-Due to some technicial problems, the NUS SMS Corpus website [http://wing.comp.nus.edu.sg/SMSCorpus] (http://wing.comp.nus.edu.sg:8080/SMSCorpus) is temporally unavailable. For your convenience, we upload the recent release (Mar 9, 2015) of the corpus here. 
+Due to some technicial problems, the NUS SMS Corpus website [http://wing.comp.nus.edu.sg/SMSCorpus] (http://wing.comp.nus.edu.sg:8080/SMSCorpus) is temporally unavailable. For your convenience, we upload the most recent release (Mar 9, 2015) of the corpus here. 
 
 **Please cite the following paper if you use our corpus. Thanks!**
 
