@@ -1,10 +1,10 @@
 # NUS SMS Corpus
-Due to some technicial problems, the NUS SMS Corpus website [http://wing.comp.nus.edu.sg/SMSCorpus] (http://wing.comp.nus.edu.sg:8080/SMSCorpus) is temporally unavailable. For your convenience, we upload the most recent release (Mar 9, 2015) of the corpus here. 
+Due to some technicial problems, the NUS SMS Corpus website [http://wing.comp.nus.edu.sg/SMSCorpus](http://wing.comp.nus.edu.sg:8080/SMSCorpus) is temporally unavailable. For your convenience, we upload the most recent release (Mar 9, 2015) of the corpus here. 
 
 **Please cite the following paper if you use our corpus. Thanks!**
 
 
-Tao Chen and Min-Yen Kan (2013). [Creating a Live, Public Short Message Service Corpus: The NUS SMS Corpus] (http://link.springer.com/article/10.1007%2Fs10579-012-9197-9). Language Resources and Evaluation, 47(2)(2013), pages 299--355.
+Tao Chen and Min-Yen Kan (2013). [Creating a Live, Public Short Message Service Corpus: The NUS SMS Corpus](http://link.springer.com/article/10.1007%2Fs10579-012-9197-9). Language Resources and Evaluation, 47(2)(2013), pages 299--355.
 
 
 Language | File Format | Size | Number of Messages 
