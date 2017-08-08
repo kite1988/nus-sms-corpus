@@ -11,7 +11,10 @@ Language | File Format | Size | Number of Messages
 ------------ | ------------- | -------------  | -------------
 English | SQL | [2,045K](smsCorpus_en_sql_2015.03.09_all.zip) | 55,835
 English | XML | [2,359K](smsCorpus_en_xml_2015.03.09_all.zip) | 55,835
+English | JSON | [2,740K](https://www.kaggle.com/rtatman/the-national-university-of-singapore-sms-corpus/downloads/smsCorpus_en_2015.03.09_all.json) | 55,835
 Chinese | SQL | [979K](smsCorpus_zh_sql_2015.03.09.zip)   | 31,465
 Chinese | XML | [1,182K](smsCorpus_zh_xml_2015.03.09.zip) | 31,465
+Chinese | JSON | [1,700K](https://www.kaggle.com/rtatman/the-national-university-of-singapore-sms-corpus/downloads/smsCorpus_zh_2015.03.09.json) | 31,465
+
     
-    
+**Our dataset has been added to [Kaggle](https://www.kaggle.com/rtatman/the-national-university-of-singapore-sms-corpus)! Please consider participating a competition!**
