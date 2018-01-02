@@ -3,8 +3,9 @@ Due to some technicial problems, the NUS SMS Corpus website [http://wing.comp.nu
 
 **Please cite the following paper if you use our corpus. Thanks!**
 
-
 Tao Chen and Min-Yen Kan (2013). [Creating a Live, Public Short Message Service Corpus: The NUS SMS Corpus](http://link.springer.com/article/10.1007%2Fs10579-012-9197-9). Language Resources and Evaluation, 47(2)(2013), pages 299-355.
+
+Please do us a favor and send a quick message to Tao Chen (chentaokite @ gmail dot com), if download this corpus and plan on using it. It will only take a minute of your time and will help us get a better idea of what such a corpus might be used for.
 
 
 Language | File Format | Size | Number of Messages 
@@ -18,3 +19,8 @@ Chinese | JSON | [1,700K](https://www.kaggle.com/rtatman/the-national-university
 
     
 **Our dataset has been added to [Kaggle](https://www.kaggle.com/rtatman/the-national-university-of-singapore-sms-corpus)! Please consider participating a competition!**
+
+
+## Group Members
+* <a href="http://www.cs.jhu.edu/~taochen/">Tao Chen</a>
+* <a href="http://www.comp.nus.edu.sg/~kanmy/">Min-Yen Kan</a> - Group lead
